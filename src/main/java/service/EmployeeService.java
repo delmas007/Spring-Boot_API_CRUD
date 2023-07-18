@@ -2,7 +2,7 @@ package service;
 
 import java.util.Optional;
 
-import controller.Employee;
+import model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
